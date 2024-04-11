@@ -6,14 +6,11 @@
 - 😄 Pronouns: :sunny::sunny::sunny:
 - ⚡ Fun fact: I don’t trust people who don’t write SQL queries in uppercase.
 
-![](https://github-readme-stats.vercel.app/api?username=Sleny1994&show_icons=true&theme=transparent)
-
-You are my ![Visitor Count](https://profile-counter.glitch.me/Sleny1994/count.svg) visitor,Thank You! :kissing_heart:
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Sleny1994&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sleny1994&layout=compact&theme=tokyonight)
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=Sleny1994&theme=dracula)
-
+![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sleny1994&theme=dracula)
 
 <!--
 **Sleny1994/Sleny1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
