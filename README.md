@@ -10,7 +10,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sleny1994&layout=compact&theme=tokyonight)
 
-![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sleny1994&theme=dracula)
+![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sleny1994&theme=dracula)
 
 <!--
 **Sleny1994/Sleny1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
