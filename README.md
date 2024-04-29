@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Sleny
 <b>I'm a Full-Stack Developer from China.</b></br>
 - 🔭 I’m currently working on DevOps and Developing.
-- 💬 Ask me about C#/VB/Python/JavaScript/SQL/.
+- 💬 Ask me about C#/VB/Python/Vue/JavaScript/TypeScript/SQL/.
 - 📫 How to reach me: 1402271195@qq.com
 - 😄 Pronouns: :sunny::sunny::sunny:
 - ⚡ Fun fact: I don’t trust people who don’t write SQL queries in uppercase.
